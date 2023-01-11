@@ -19,7 +19,7 @@ for i in range(play_amount):
         print("________")
     
     
-    pyautogui.click(950, 600)
+    pyautogui.click(play_bttn)
     successful_plays += 1
     time.sleep(1)
 
