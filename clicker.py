@@ -4,6 +4,8 @@
 # Enter loop of n number for amount of times to play
 # Click initial 
 
+#After deeper statistical analysis (simple math), we have discovered the best profit return is 2 square with 4 mines or 4 squares with 2 mines
+
 
 # These are the squares I am clicking
 #    X|X|X|X|X
